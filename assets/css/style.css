@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/crystalbackground.png");
+}
+
+@font-face {
+    font-family: "crystalfont";
+    src: url("crystalfont.otf");
+}
+
+.crystalImage {
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "crystalfont";
+}
+
+p {
+  text-align: center;
+  font-family: "crystalfont";
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-family: "crystalfont";
+  font-size: 30px;
+}
+
+div {
+  text-align: center;
+  font-family: "crystalfont";
+  font-size: 22px;
+}
+
+h3 {
+  text-align: center;
+  font-family: "crystalfont";
+  font-size: 30px;
+}
